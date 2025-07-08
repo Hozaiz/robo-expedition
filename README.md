@@ -9,6 +9,7 @@ A unified AI-powered chat agent combining:
 - 🐙 **GitHub Integration**: View user profile, repositories, and PRs
 
 ## 🏁 How to Run
+- Download all the files.
 - pip install -r requirements.txt
 - GROQ_API_KEY=your_groq_api_key
 - BLACKBOX_API_KEY=your_blackbox_api_key
