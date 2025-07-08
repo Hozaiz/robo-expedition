@@ -1,0 +1,9 @@
+streamlit
+requests
+tiktoken
+python-dotenv
+PyPDF2
+pillow
+pytesseract
+docx2txt
+beautifulsoup4
